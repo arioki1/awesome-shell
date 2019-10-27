@@ -2727,3 +2727,5 @@ A curated list of awesome Shell frameworks, libraries and software.
 * [Goles/Battery](https://github.com/Goles/Battery) - Battery is a little bash script that uses Spark to display the battery status on your tmux sessions or the terminal.
 * [fz](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 * [athityakumar/colorls](https://github.com/athityakumar/colorls) - A Ruby gem that beautifies the terminal's ls command, with color and font-awesome icons. 🎉
+* [arioki1/clean-all-project-rn](https://github.com/arioki1/clean-all-project-rn) clean-all-project-rn is a simple to clean node_module folder and run gradlew clean in all project
+
